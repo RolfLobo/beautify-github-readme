@@ -140,6 +140,12 @@ SVG-only 模式下，即使 Agent 为了理解项目读取了 README，也不代
 
 整份 README 模式默认交付本地预览、视觉素材和 README diff；SVG-only 模式默认交付 SVG 文件、渲染预览和可选的嵌入代码。只有在明确授权后，才会修改引用、提交、推送或创建 PR。
 
+<p align="center">
+  <a href="https://github.com/ruanyf/weekly/issues/10728">
+    <img src="./assets/readme/submitted-to-weekly.svg" width="420" alt="投稿至科技爱好者周刊">
+  </a>
+</p>
+
 MIT License
 
 ---

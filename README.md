@@ -138,6 +138,12 @@ Use $beautify-github-readme to audit this README for clarity, hierarchy, trust, 
 
 Whole-README mode delivers a local preview, visual assets, and a README diff. SVG-only mode delivers the SVG files, rendered previews, and optional embed snippets. Commits, pushes, PRs, and publishing always require explicit authorization.
 
+<p align="center">
+  <a href="https://github.com/ruanyf/weekly/issues/10728">
+    <img src="./assets/readme/submitted-to-weekly.svg" width="420" alt="Reader submission to 科技爱好者周刊">
+  </a>
+</p>
+
 MIT License
 
 ---
