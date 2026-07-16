@@ -2,6 +2,8 @@
 
 Use SVG for deterministic layout, typography, diagrams, and title systems that must scale cleanly inside GitHub.
 
+For motion, keep the SVG as the editable source and derive a GIF for GitHub playback. Read [motion-production.md](motion-production.md) before animating or converting an asset.
+
 ## Start with the canvas
 
 Use these as starting points, not fixed templates:

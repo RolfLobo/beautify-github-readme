@@ -4,6 +4,8 @@
 
 GitHub README pages reliably support Markdown, tables, links, code blocks, details blocks, and embedded local images. Use HTML only for simple alignment and image sizing.
 
+GitHub displays GIF animation but does not play animation embedded inside SVG. Keep an SVG source and static fallback for every animated visual. Read [motion-production.md](motion-production.md) before building motion.
+
 Recommended image embed:
 
 ```html
@@ -47,6 +49,7 @@ Store repository-specific visuals under:
 ```text
 assets/readme/
 ├── hero.svg
+├── hero.gif
 ├── showcase.png
 ├── section-*.svg
 └── workflow.svg
